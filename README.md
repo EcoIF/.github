@@ -1,4 +1,5 @@
-![Banner EcoJourney](https://github.com/user-attachments/assets/6e6a2864-4e60-474e-955e-d87e3d3242cc)
+![Banner EcoJourney](https://github.com/user-attachments/assets/fa0b3cf5-4fc3-4f92-8207-52e0f6425e76)
+
 # Sobre o aplicativo
 EcoJourney é um aplicativo desenvolvido para a Maratona Tech
 com o objetivo de promover a conscientização e educação ambiental 
